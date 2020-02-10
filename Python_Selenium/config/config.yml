@@ -1,0 +1,26 @@
+webdriver:
+    url:
+      AMAZON:
+        - https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713?pf_rd_p=a6ab5c6e-071b-439b-80c3-398da8c9969d&pd_rd_wg=KwtPy&pf_rd_r=XB0WJMBPQ93WKEPWSAR4&ref_=pd_gw_msx_wsixn_v1&pd_rd_w=YOSra&pd_rd_r=da865001-0803-409a-a3cf-b4773cac32b9
+        - https://www.amazon.com/Pure-Apple-Cider-Vinegar-Gummies/dp/B07Q58RTJB?pf_rd_p=49cc0578-ad6d-4af2-8d1d-7edf5086c66e&pf_rd_r=DV03X4P7E6F10223G406
+      WALMART:
+        - https://www.walmart.com/ip/Onn-Ultra-Thin-Indoor-Antenna/870578530?athcpid=870578530&athpgid=athenaHomepage&athcgid=null&athznid=CC_Trending&athieid=&athstid=CS031&athguid=466001f5-46cfa622-39cc95569a18a716&athena=true
+        - https://www.walmart.com/ip/Shark-Navigator-Swivel-Plus-Upright-Vacuum-Cleaner-NV46/35931940
+      TARGET:
+        - https://www.target.com/p/dove-white-beauty-bar-4oz-4pk/-/A-11223389
+
+tor_config:
+    tor_file_path: C:\\Users\\vohon\\OneDrive\\Desktop\\Tor Browser\\Browser\\firefox.exe
+    tor_profile_path: C:\\Users\\vohon\\OneDrive\\Desktop\\Tor Browser\\Browser\\TorBrowser\\Data\\Browser\\profile.default
+    tor_proxy_type :
+      - network.proxy.type
+      - 1
+    tor_proxy_socks :
+      - network.proxy.socks
+      - 127.0.0.1
+    tor_proxy_socks_port:
+      - network.proxy.socks_port
+      - 9150
+    tor_proxy_socks_remote_dns:
+      - network.proxy.socks_remote_dns
+      - False

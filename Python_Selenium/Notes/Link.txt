@@ -1,0 +1,11 @@
+xlsx library explaination
+https://xlsxwriter.readthedocs.io/
+
+xlwt
+https://www.programcreek.com/python/example/6932/xlwt.Workbook
+
+csv
+https://www.youtube.com/watch?v=q5uM4VKywbA
+https://stackoverflow.com/questions/2363731/append-new-row-to-old-csv-file-python
+https://developers.google.com/edu/python/lists
+https://www.youtube.com/watch?v=G3GBXDmXbmE
